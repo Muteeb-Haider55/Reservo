@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { dashboardDummyData, roomsDummyData } from '../../assets/assets'
+import {roomsDummyData } from '../../assets/assets'
 import Title from '../../components/Title';
 
 const ListRoom = () => {
